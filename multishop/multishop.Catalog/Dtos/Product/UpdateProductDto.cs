@@ -1,12 +1,7 @@
-﻿using MongoDB.Bson;
-using MongoDB.Bson.Serialization.Attributes;
+﻿namespace multishop.Catalog.Dtos.Product;
 
-namespace multishop.Catalog.Entities;
-
-public class Product
+public class UpdateProductDto
 {
-    [BsonId]
-    [BsonRepresentation(BsonType.ObjectId)]
     public string Id { get; set; } = null!;
     public string CategoryId { get; set; }
 
@@ -15,8 +10,4 @@ public class Product
     public int Stock { get; set; }
     public string? ImageUrl { get; set; }
     public string? Description { get; set; }
-    
-    //Relations
-    [BsonIgnore]
-    public Category Category { get; set; }
 }
