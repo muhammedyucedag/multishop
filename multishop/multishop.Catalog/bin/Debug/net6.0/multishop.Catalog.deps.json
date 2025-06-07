@@ -13,6 +13,7 @@
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "6.0.18",
           "MongoDB.Bson": "3.4.0",
           "MongoDB.Driver": "3.4.0",
+          "Newtonsoft.Json": "13.0.3",
           "Swashbuckle.AspNetCore": "6.5.0"
         },
         "runtime": {
