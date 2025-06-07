@@ -50,3 +50,4 @@ namespace multishop.Catalog.Controllers
         }
     }
 }
+
