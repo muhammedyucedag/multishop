@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("multishop.Catalog")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e46d24eb61bfd6a163c7d68ce3522ba7387f1b5e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04b16c74c3e37b64a7b6f469d4561a7bac273e13")]
 [assembly: System.Reflection.AssemblyProductAttribute("multishop.Catalog")]
 [assembly: System.Reflection.AssemblyTitleAttribute("multishop.Catalog")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
