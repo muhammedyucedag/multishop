@@ -4,7 +4,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{DE
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Catalog", "Catalog", "{478285EF-AD0F-4A7B-B434-28EBEA3DE27E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "multishop.Catalog", "multishop.Catalog\multishop.Catalog.csproj", "{FB42989F-E16C-4BBE-9B99-6D2E18961256}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "multishop.Catalog", "..\Services\Catalog\multishop.Catalog\multishop.Catalog.csproj", "{FB42989F-E16C-4BBE-9B99-6D2E18961256}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Discount", "Discount", "{57593D1E-E184-4FCF-B3CF-0627D12B6CC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "multishop.Discount", "..\Services\Discount\multishop.Discount\multishop.Discount.csproj", "{5760D757-E69A-4523-84ED-ACC2383A3DF1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,11 +18,17 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{478285EF-AD0F-4A7B-B434-28EBEA3DE27E} = {DEC8E3F9-FBCD-4376-90AB-4B1EED8634D9}
 		{FB42989F-E16C-4BBE-9B99-6D2E18961256} = {478285EF-AD0F-4A7B-B434-28EBEA3DE27E}
+		{57593D1E-E184-4FCF-B3CF-0627D12B6CC3} = {DEC8E3F9-FBCD-4376-90AB-4B1EED8634D9}
+		{5760D757-E69A-4523-84ED-ACC2383A3DF1} = {57593D1E-E184-4FCF-B3CF-0627D12B6CC3}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{FB42989F-E16C-4BBE-9B99-6D2E18961256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FB42989F-E16C-4BBE-9B99-6D2E18961256}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB42989F-E16C-4BBE-9B99-6D2E18961256}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB42989F-E16C-4BBE-9B99-6D2E18961256}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5760D757-E69A-4523-84ED-ACC2383A3DF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5760D757-E69A-4523-84ED-ACC2383A3DF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5760D757-E69A-4523-84ED-ACC2383A3DF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5760D757-E69A-4523-84ED-ACC2383A3DF1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
