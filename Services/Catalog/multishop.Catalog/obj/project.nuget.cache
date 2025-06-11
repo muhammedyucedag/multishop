@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7VxoydrpSHs=",
+  "dgSpecHash": "z+PYXvvJP6c=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Muhammed\\Desktop\\masaüstü\\github-project\\multishop\\Services\\Catalog\\multishop.Catalog\\multishop.Catalog.csproj",
+  "projectFilePath": "C:\\Users\\Muhammed\\Desktop\\Project\\github-project\\multishop\\Services\\Catalog\\multishop.Catalog\\multishop.Catalog.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Muhammed\\.nuget\\packages\\autofac\\8.3.0\\autofac.8.3.0.nupkg.sha512",
     "C:\\Users\\Muhammed\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",

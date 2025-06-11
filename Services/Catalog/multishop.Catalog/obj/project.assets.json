@@ -9766,11 +9766,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Muhammed\\Desktop\\masaüstü\\github-project\\multishop\\Services\\Catalog\\multishop.Catalog\\multishop.Catalog.csproj",
+      "projectUniqueName": "C:\\Users\\Muhammed\\Desktop\\Project\\github-project\\multishop\\Services\\Catalog\\multishop.Catalog\\multishop.Catalog.csproj",
       "projectName": "multishop.Catalog",
-      "projectPath": "C:\\Users\\Muhammed\\Desktop\\masaüstü\\github-project\\multishop\\Services\\Catalog\\multishop.Catalog\\multishop.Catalog.csproj",
+      "projectPath": "C:\\Users\\Muhammed\\Desktop\\Project\\github-project\\multishop\\Services\\Catalog\\multishop.Catalog\\multishop.Catalog.csproj",
       "packagesPath": "C:\\Users\\Muhammed\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Muhammed\\Desktop\\masaüstü\\github-project\\multishop\\Services\\Catalog\\multishop.Catalog\\obj\\",
+      "outputPath": "C:\\Users\\Muhammed\\Desktop\\Project\\github-project\\multishop\\Services\\Catalog\\multishop.Catalog\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Muhammed\\AppData\\Roaming\\NuGet\\NuGet.Config"
