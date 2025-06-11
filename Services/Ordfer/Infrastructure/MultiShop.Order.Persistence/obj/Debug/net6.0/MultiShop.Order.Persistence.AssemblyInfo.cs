@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("multishop.Discount")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("MultiShop.Order.Persistence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16536ec5f48acb8e9703b91808e6b6f16d6640c4")]
-[assembly: System.Reflection.AssemblyProductAttribute("multishop.Discount")]
-[assembly: System.Reflection.AssemblyTitleAttribute("multishop.Discount")]
+[assembly: System.Reflection.AssemblyProductAttribute("MultiShop.Order.Persistence")]
+[assembly: System.Reflection.AssemblyTitleAttribute("MultiShop.Order.Persistence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
