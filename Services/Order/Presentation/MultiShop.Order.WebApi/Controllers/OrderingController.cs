@@ -27,7 +27,7 @@ public class OrderingController : ControllerBase
     [HttpGet("{id}")]
     public async Task<IActionResult> GetOrderingById(int id)
     {
-        var values = _mediator.Send(new GetOrderingByIdQuery(id));
+        var values = await _mediator.Send(new GetOrderingByIdQuery(id));
         return Ok(values);
     }
 
