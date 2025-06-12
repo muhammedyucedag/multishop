@@ -476,3 +476,7 @@ C:\Users\Muhammed\Desktop\Project\github-project\multishop\Services\Order\Presen
 C:\Users\Muhammed\Desktop\Project\github-project\multishop\Services\Order\Presentation\MultiShop.Order.WebApi\bin\Debug\net6.0\MultiShop.Order.Persistence.pdb
 C:\Users\Muhammed\Desktop\Project\github-project\multishop\Services\Order\Presentation\MultiShop.Order.WebApi\bin\Debug\net6.0\MultiShop.Order.Application.pdb
 C:\Users\Muhammed\Desktop\Project\github-project\multishop\Services\Order\Presentation\MultiShop.Order.WebApi\bin\Debug\net6.0\MultiShop.Order.Domain.pdb
+C:\Users\Muhammed\Desktop\Project\github-project\multishop\Services\Order\Presentation\MultiShop.Order.WebApi\bin\Debug\net6.0\MediatR.dll
+C:\Users\Muhammed\Desktop\Project\github-project\multishop\Services\Order\Presentation\MultiShop.Order.WebApi\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\Muhammed\Desktop\Project\github-project\multishop\Services\Order\Presentation\MultiShop.Order.WebApi\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Muhammed\Desktop\Project\github-project\multishop\Services\Order\Presentation\MultiShop.Order.WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
