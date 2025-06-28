@@ -20,6 +20,7 @@
           "net6.0"
         ],
         "sources": {
+          "C:\\Users\\Muhammed\\Desktop\\packages-main": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -96,6 +97,7 @@
           "net6.0"
         ],
         "sources": {
+          "C:\\Users\\Muhammed\\Desktop\\packages-main": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
